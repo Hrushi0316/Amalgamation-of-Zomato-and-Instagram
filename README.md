@@ -12,6 +12,4 @@ The platform features secure authentication, partner dashboards, video uploads, 
 
 💾 Video Uploads: Upload and stream videos from backend (using Multer or cloud integration).
 
-❤️ Likes & Comments: Engage with reels and share food experiences.
-
 🌐 Responsive Design: Optimized for mobile and desktop for smooth UX.
